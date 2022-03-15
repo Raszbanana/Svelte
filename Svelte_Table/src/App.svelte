@@ -13,7 +13,7 @@
 <style>
   main {
     text-align: center;
-    background-color: #fbf2f2;
+    background-color: #689d0d;
   }
 
   #table-container {
